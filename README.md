@@ -1,5 +1,5 @@
 # angularnotes
-my angular
+my angular notes and training
 
 # hello-world
 - name says it all
